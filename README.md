@@ -6,7 +6,6 @@
  以下为插件目录
  
  - [BanForceplugin](https://github.com/mrsongbyssgs/banForceplugin/)
- 
  - [creeperBoomplugin](https://github.com/mrsongbyssgs/creeperBoomplugin/)
  
  
