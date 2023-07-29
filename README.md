@@ -7,5 +7,6 @@
  
  - [BanForceplugin](https://github.com/mrsongbyssgs/banForceplugin/)
  - [creeperBoomplugin](https://github.com/mrsongbyssgs/creeperBoomplugin/)
+ - [ClearWarpPlugin](https://github.com/mrsongbyssgs/ClearWarpPlugin/)
  
  
